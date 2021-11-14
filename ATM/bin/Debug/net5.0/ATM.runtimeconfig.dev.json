@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/wemabank/.dotnet/store/|arch|/|tfm|",
+      "/Users/wemabank/.nuget/packages"
+    ]
+  }
+}

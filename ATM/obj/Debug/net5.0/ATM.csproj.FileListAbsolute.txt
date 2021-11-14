@@ -1,0 +1,15 @@
+/Users/wemabank/Projects/ATM/ATM/bin/Debug/net5.0/ATM.deps.json
+/Users/wemabank/Projects/ATM/ATM/bin/Debug/net5.0/ATM.runtimeconfig.json
+/Users/wemabank/Projects/ATM/ATM/bin/Debug/net5.0/ATM.runtimeconfig.dev.json
+/Users/wemabank/Projects/ATM/ATM/bin/Debug/net5.0/ATM.dll
+/Users/wemabank/Projects/ATM/ATM/bin/Debug/net5.0/ref/ATM.dll
+/Users/wemabank/Projects/ATM/ATM/bin/Debug/net5.0/ATM.pdb
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.AssemblyInfo.cs
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.dll
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ref/ATM.dll
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.pdb
+/Users/wemabank/Projects/ATM/ATM/obj/Debug/net5.0/ATM.genruntimeconfig.cache
