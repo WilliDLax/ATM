@@ -1,5 +1,8 @@
 ﻿using System;
 
+//Simple demonstration of using delegates for callbacks and anonymous methods
+//using simple ATM operations as an example
+
 namespace ATM
 {
     public delegate void CallBalance(double balance);
@@ -7,6 +10,7 @@ namespace ATM
 
     class Program
     {
+        //created for call back purposes
         static void Call(double balance)
         {
             Console.WriteLine("Your remaining balance is {0}", balance);
@@ -14,15 +18,12 @@ namespace ATM
 
         static void Main(string[] args)
         {
-            //Operations of an atm
             ATM atm = new ATM();
 
-            //Check balance
-
-            //Withdraw money
+            //Withdraw money, calls back balance after withdrawal
             atm.Withdraw(Call);
 
-            //Transfer money
+            //Transfer money using an anonymous method
             CreateAnonymous transfer = delegate()
             {
                 Console.WriteLine("How much would you like to transfer? ");
@@ -31,7 +32,7 @@ namespace ATM
                 atm.Balance -= amount;
                 Console.WriteLine("Your balance after transfer is {0}",atm.Balance);
             };
-            transfer();
+            transfer(); 
         }
 
     }
